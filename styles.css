@@ -1,0 +1,28 @@
+@font-face {
+    font-family: "Ubuntu";
+    src:url("fonts/Ubuntu-Medium_Woff2.woff2"),
+    url("fonts/Ubuntu-Medium_Woff.woff");
+    font-style: normal;
+    font-display: swap;
+}
+
+main {
+    font-family: "Ubuntu", sans-serif;
+    font-size: 18px;
+    padding: 3%;
+	background-color: Lavender;
+	margin: 3%;
+	border-bottom: 5px solid black;
+	border-radius: 15px;
+}
+
+header {
+	font-family: "Ubuntu", sans-serif;
+	background-color: Lavender;
+	margin: 0.7%;
+	border-bottom: 3px solid black;
+	border-bottom-right-radius: 15px;
+	border-bottom-left-radius: 15px;
+	padding-left: 10px;
+	padding-top: 3px;
+}
